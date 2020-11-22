@@ -4,6 +4,6 @@ This is the original Snake Game programmed in Ruby. I watched a tutorial on how 
 
 This was a fantastic way to challenge myself from viewing the material the day before to completing the task from scatch without any video help!
 
-![Start of the Game](start.png)
-![Middle of the Game](middle.png)
-![End of the Game](end.png)
+![Start of the Game](images/start.png)
+![Middle of the Game](images/middle.png)
+![End of the Game](images/end.png)
